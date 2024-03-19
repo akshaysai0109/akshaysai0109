@@ -23,7 +23,7 @@ Interests :
 I am particularly interested in exploring opportunities where I can apply my skills in data science and cyber security to address real-world challenges. I am passionate about leveraging data-driven insights to enhance security measures and mitigate risks in various domains.
 
 Contact :
-I am actively seeking internship opportunities to further develop my skills and contribute to innovative projects. Feel free to reach out to me via email at your.email@example.com or connect with me on LinkedIn.
+I am actively seeking internship opportunities to further develop my skills and contribute to innovative projects. Feel free to reach out to me via email at akshaysai0109@gmail.com or connect with me on LinkedIn.
 
 Thank you for visiting my GitHub repository. I look forward to collaborating and contributing to impactful projects in the field of data science and cyber security!
 
